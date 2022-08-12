@@ -1,0 +1,15 @@
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.csproj.AssemblyReference.cache
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.AssemblyInfoInputs.cache
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.AssemblyInfo.cs
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.csproj.CoreCompileInputs.cache
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/bin/Debug/net5.0/ProviderAssignment.deps.json
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/bin/Debug/net5.0/ProviderAssignment.runtimeconfig.json
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/bin/Debug/net5.0/ProviderAssignment.runtimeconfig.dev.json
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/bin/Debug/net5.0/ProviderAssignment.dll
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/bin/Debug/net5.0/ref/ProviderAssignment.dll
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/bin/Debug/net5.0/ProviderAssignment.pdb
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.dll
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ref/ProviderAssignment.dll
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.pdb
+/Users/surajvalanju/CSharpTrainingAssignments/CSharptrainingAssignments/ProviderAssignment/obj/Debug/net5.0/ProviderAssignment.genruntimeconfig.cache
