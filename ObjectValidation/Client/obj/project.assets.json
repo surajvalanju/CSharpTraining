@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ObjectValidation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ObjectValidation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObjectValidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectValidation/1.0.0": {
+      "type": "project",
+      "path": "../ObjectValidation/ObjectValidation.csproj",
+      "msbuildProject": "../ObjectValidation/ObjectValidation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ObjectValidation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/surajvalanju/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/Client/Client.csproj",
+      "projectName": "Client",
+      "projectPath": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/Client/Client.csproj",
+      "packagesPath": "/Users/surajvalanju/.nuget/packages/",
+      "outputPath": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/Client/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/surajvalanju/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "/Users/surajvalanju/Projects/Xamarin.BaseLibrary/Output": {},
+        "/Users/surajvalanju/Projects/Xamarin.Commons/Output": {},
+        "/Users/surajvalanju/Projects/Xamarin.IntegrationLibrary/Output": {},
+        "/usr/local/share/dotnet/library-packs": {},
+        "http://myget.org/F/xamarin-plugins/": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://artifactory-ehv.ta.philips.com:443/artifactory/pvh-platform-nuget-dev-local/": {},
+        "https://www.myget.org/F/filepicker-plugin/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/ObjectValidation.csproj": {
+              "projectPath": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/ObjectValidation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

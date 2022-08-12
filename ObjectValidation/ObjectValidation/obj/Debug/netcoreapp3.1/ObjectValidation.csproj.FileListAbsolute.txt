@@ -1,0 +1,9 @@
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/bin/Debug/netcoreapp3.1/ObjectValidation.deps.json
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/bin/Debug/netcoreapp3.1/ObjectValidation.dll
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/bin/Debug/netcoreapp3.1/ObjectValidation.pdb
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/obj/Debug/netcoreapp3.1/ObjectValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/obj/Debug/netcoreapp3.1/ObjectValidation.AssemblyInfoInputs.cache
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/obj/Debug/netcoreapp3.1/ObjectValidation.AssemblyInfo.cs
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/obj/Debug/netcoreapp3.1/ObjectValidation.csproj.CoreCompileInputs.cache
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/obj/Debug/netcoreapp3.1/ObjectValidation.dll
+/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/obj/Debug/netcoreapp3.1/ObjectValidation.pdb

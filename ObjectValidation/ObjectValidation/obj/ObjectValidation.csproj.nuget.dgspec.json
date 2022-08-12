@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/ObjectValidation.csproj": {}
+  },
+  "projects": {
+    "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/ObjectValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/ObjectValidation.csproj",
+        "projectName": "ObjectValidation",
+        "projectPath": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/ObjectValidation.csproj",
+        "packagesPath": "/Users/surajvalanju/.nuget/packages/",
+        "outputPath": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/ObjectValidation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/surajvalanju/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/Users/surajvalanju/Projects/Xamarin.BaseLibrary/Output": {},
+          "/Users/surajvalanju/Projects/Xamarin.Commons/Output": {},
+          "/Users/surajvalanju/Projects/Xamarin.IntegrationLibrary/Output": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "http://myget.org/F/xamarin-plugins/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory-ehv.ta.philips.com:443/artifactory/pvh-platform-nuget-dev-local/": {},
+          "https://www.myget.org/F/filepicker-plugin/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

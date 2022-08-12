@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdiPwsEgLbpyW0nepYwEmGsQrH+AmUAHuduU81KW5392+i8a3cc+SExU0mEol7rd61BM8aQZmHDOPw0s722tDQ==",
+  "success": true,
+  "projectFilePath": "/Users/surajvalanju/CSharpTrainingAssignments/ObjectValidation/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/surajvalanju/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
